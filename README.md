@@ -1,16 +1,32 @@
-## Hi there 👋
 
-<!--
-**aliyaimam93/aliyaimam93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hi, I'm Aliya Imam! 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 First-Year B.Tech Biotechnology Student
+
+🧬 Interested in Biotechnology, Molecular Biology and Scientific Research.
+
+💡 Currently exploring:
+- Biotechnology and Life Sciences
+- Molecular Biology
+- Bioinformatics
+- R Programming
+- Scientific Research and Documentation
+
+### Skills & Interests
+- Basic Biological Concepts
+- MS Office
+- Research and Report Writing
+- Scientific Communication
+- R Programming (Learning)
+
+### Currently Learning
+- Programming and Data Analysis
+- Biotechnology Applications
+- Laboratory Techniques
+
+### Connect with me
+📧 Email: aliyaimam93@gmail.com
+
+---
+✨ Learning, exploring and growing in the world of Biotechnology!
